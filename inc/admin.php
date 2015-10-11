@@ -9,7 +9,7 @@ class sem_admin
 	 *
 	 * @return void
 	 **/
-	function header_css() {
+	static function header_css() {
 		?>
 <style type="text/css">
 #headimg {

@@ -1,6 +1,6 @@
 <?php
 if ( !defined('sem_debug') )
-	define(sem_debug, true);
+	define('sem_debug', true);
 
 if ( !isset($content_width) )
 	$content_width = 420;
